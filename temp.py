@@ -1,0 +1,6 @@
+print "y     y     a      n nnnn"
+print " y   y     a a     nn   n"
+print "  y y     a   a    n    n"
+print "   y     aaaaaaa   n    n"
+print "  y     a       a  n    n"
+print " y     a         a n    n "
