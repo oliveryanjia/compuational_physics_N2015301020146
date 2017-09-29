@@ -16,6 +16,7 @@
 
 ![](http://latex.codecogs.com/gif.latex?\.N_{B})![](http://latex.codecogs.com/gif.latex?\=N_{A0}\,e^{-T/t})![](http://latex.codecogs.com/gif.latex?\frac{t_{B}}{t_{A}-t_{B}})
  
+ 
  有欧拉法及书上（1.3）~（1.6）可有t+dt时刻N与t时刻N的关系如下
 
 ![](http://latex.codecogs.com/gif.latex?\.N_{A}(T+dT))
