@@ -12,9 +12,9 @@
 ### Main boby
 类似书中从（1.1）到（1.2）处理办法，我们先写出AB两者的解析解之后取近似且t(A)远大于t(B)，我们有
 
-![](http://latex.codecogs.com/gif.latex?\.N_{A})![](http://latex.codecogs.com/gif.latex?\=N_{A0}\,e^{-T/t})
+![](http://latex.codecogs.com/gif.latex?\.N_{A})![](http://latex.codecogs.com/gif.latex?\=N_{A}(0)\*e^{-T/t})
 
-![](http://latex.codecogs.com/gif.latex?\.N_{B})![](http://latex.codecogs.com/gif.latex?\=N_{A0}\,e^{-T/t})![](http://latex.codecogs.com/gif.latex?\frac{t_{B}}{t_{A}-t_{B}})
+![](http://latex.codecogs.com/gif.latex?\.N_{B})![](http://latex.codecogs.com/gif.latex?\=N_{A}(0)\*e^{-T/t})![](http://latex.codecogs.com/gif.latex?\frac{t_{B}}{t_{A}-t_{B}})
  
  
  有欧拉法及书上（1.3）~（1.6）可有t+dt时刻N与t时刻N的关系如下
