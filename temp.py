@@ -1,3 +1,4 @@
+就是这样 
 print "y     y     a      n nnnn           jj   iiiiii       a"
 print " y   y     a a     nn   n           jj     ii        a a"
 print "  y y     a   a    n    n           jj     ii       a   a"
