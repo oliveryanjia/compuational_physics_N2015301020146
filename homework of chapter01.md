@@ -30,3 +30,6 @@
 
 [picture1](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/chapter01%2B.png)       
 [picture2](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/chapter01-.png)
+
+### Conclusion
+由两张图片可以清楚看出τ的比值会影响两条线的曲率，当τA：τB比值偏大时,元素B含量一直不会处于高水准，经过小幅增加之后很快回落（比较容易理解，相比于A，元素B衰变更“容易”更“及时”，因此由A衰变形成的B很容易就又进行一次衰变）而τA：τB比值略小时能看到在中间一段时间内，元素B含量很高（可理解为B没那么容易衰变，每当A衰变为B后，大量B会较为缓慢的衰变为C，因此有一段时间的积累，不过随着A的减少，元素B产生反应供应不足，因此又会回落）
