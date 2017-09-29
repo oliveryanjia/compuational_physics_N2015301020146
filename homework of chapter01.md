@@ -19,6 +19,6 @@
  
  有欧拉法及书上（1.3）~（1.6）可有t+dt时刻N与t时刻N的关系如下
 
-![](http://latex.codecogs.com/gif.latex?\.N_{A}(T+dT))![](http://latex.codecogs.com/gif.latex?\=N_{A}-N_{A}/t_{A}*dT))
+![](http://latex.codecogs.com/gif.latex?\.N_{A}(T+dT))![](http://latex.codecogs.com/gif.latex?\=N_{A}-N_{A}/t_{A}*dT)
 
 ![](http://latex.codecogs.com/gif.latex?\.N_{B}(T+dT))![](http://latex.codecogs.com/gif.latex?\=N_{B}-(N_{A}/t_{A}-N_{B}/t_{B})*dT)
