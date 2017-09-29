@@ -3,5 +3,5 @@
 - [x] [Exercise_01 My name](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/temp.py)
 - [x] [Exercise 02 (1):moving name1](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/moving.py)
 - [x] [Exercise 02 (2):moving name2](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/moving2.py)
-- [x] [Exercise 03 homework of chapter 01](https://github.com/oliveryanjia/compuational_physics_N2015301020146/new/master)
+- [x] [Exercise 03 homework of chapter 01](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/homework%20of%20chapter01)
 - [ ] [Exercise 04]
