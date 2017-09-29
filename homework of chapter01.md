@@ -10,5 +10,9 @@
 
 这是与书中原例题有所差别的地方，也是拓展的地方
 ### Main boby
-类似书中从（1.1）到（1.2）处理办法，我们先写出AB两者的解析解
+类似书中从（1.1）到（1.2）处理办法，我们先写出AB两者的解析解之后取近似且t(A)远大于t(B)，我们有
 
+![](http://latex.codecogs.com/gif.latex?\.N_{A})![](http://latex.codecogs.com/gif.latex?\=N_{A0}\,e^{-T/t})
+
+![](http://latex.codecogs.com/gif.latex?\.N_{B})![](http://latex.codecogs.com/gif.latex?\=N_{A0}\,e^{-T/t})![](http://latex.codecogs.com/gif.latex?\frac{t_{B}}{t_{A}-t_{B}})
+ 
