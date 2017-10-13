@@ -95,3 +95,5 @@ Calculate the trajectory of our cannon shell including both air drag and the red
 ![image](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/parabola2.png)
  
 - 此外pygame里有一个Mario游戏，他有两种攻击模式，一个扔得远，一个扔得近（即初速大【蓝色球】和初速小【红色球】）
+
+![image](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/Mario.gif)
