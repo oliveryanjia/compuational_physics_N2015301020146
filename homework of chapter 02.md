@@ -86,3 +86,10 @@ Calculate the trajectory of our cannon shell including both air drag and the red
 ### Acknowledgement
 
 本文借鉴了“前辈”吴雨桥同学的代码，在此表示感谢；同时参考了百度对函数代码的介绍，使本文结论有了图像证明之后变得更加可完整，再次对以上同学以及大神送出的助攻表示真诚的谢意
+ 
+### 注
+用 pygame上的抛物线模拟器模仿两次出射角度不同时的曲线
+
+![image](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/parabola1.png)
+
+![image](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/parabola2.png)
