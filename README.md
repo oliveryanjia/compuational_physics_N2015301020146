@@ -12,3 +12,4 @@
 - [x] [Exercise 08 homework of chapter 03(03)](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/homework%20of%20chapter%2003%EF%BC%8803%EF%BC%89.md)
 - [x] [Exercise 09 homework of chapter 04](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/homework%20of%20chapter%2004.md)
 - [x] [Exercise 10 homework of chapter 05](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/homework%20of%20chapter%2005.md)
+- [x] [Exercise 10 homework of chapter 06](https://github.com/oliveryanjia/compuational_physics_N2015301020146/blob/master/homework%20of%20chapter%2006.md)
