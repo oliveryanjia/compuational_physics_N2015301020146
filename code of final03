@@ -1,0 +1,23 @@
+clear all
+clc;
+for k=1:50
+for i=1:10000;
+    a=0;
+    for j=1:k*2
+        x=rand;
+        if x>0.5
+            a=a+1;
+        else
+            a=a-1;
+        end
+end
+y(i)=a;
+end
+junfang=var(y);
+junzhi=mean(y);
+dd(k)=sqrt(junfang);
+ff(k)=junzhi;
+end
+k=2:2:100;
+stem(k,dd);
+figure(2);stem(k,ff);
