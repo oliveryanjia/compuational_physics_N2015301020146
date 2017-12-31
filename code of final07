@@ -1,0 +1,33 @@
+clear;
+len=1;
+j=0;
+close all ;
+x = [0:10 ] ;
+y = repmat(0:10,11,1)  ;
+for i = 0 : 10
+    plot(x,y(:,i+1)) ; hold on ;
+end
+N = 500 ;
+x_needle = 1+8*rand(N,2) ;
+theta = 2*pi*rand(N,1) ;
+y_needle = x_needle + len*[cos(theta),sin(theta)] ;
+x1=(x_needle+y_needle)/2;
+a=x_needle(:,2);
+b=y_needle(:,2);
+c=x1(:,2);
+if(theta<=pi)
+    if((abs(c-a)<=abs(floor(c)-c))&&(abs(c-b)<=abs(ceil(c)-c)))
+        if(floor(c)-c~=0)
+        j=j+1;
+        end
+    end
+else
+    if((abs(c-a)<abs(ceil(c)-c))&(abs(c-b)<abs(floor(c)-c)))
+    j=j+1;
+    end
+end
+probability=j/N
+for i = 1 : N
+plot([x_needle(i,1),y_needle(i,1)],[x_needle(i,2),y_needle(i,2)],'b') ;
+end
+title('Needles in parallel lines')
